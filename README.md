@@ -1,80 +1,116 @@
 <h1 align="center">Hi 👋, I'm Pulak Kar</h1>
-<h3 align="center">Full Stack Developer | Laravel | Shopify | React | Next.js</h3>
+
+<h3 align="center">
+Full Stack Developer | Laravel & Shopify Specialist | React & Next.js Enthusiast
+</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, modern e-commerce solutions, and responsive user experiences.
+I build scalable web applications, modern eCommerce platforms, and clean user-focused interfaces with performance-driven development.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer from Bangladesh
-- 🔭 Currently working with Laravel, Shopify & Next.js
-- 🌱 Learning advanced system architecture & scalable applications
-- 💬 Ask me about PHP, Laravel, Shopify, React, Next.js
-- ⚡ Focused on clean UI, performance optimization, and business solutions
+- 💼 Full Stack Developer with experience in modern web technologies
+- ⚡ Specialized in **Laravel, Shopify, React.js & Next.js**
+- 🧠 Passionate about scalable architecture and clean code
+- 🎯 Focused on performance optimization and user experience
+- 🌱 Currently exploring advanced backend systems & SaaS development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 Foundation Learning
-Modern learning platform built with TypeScript.
+### 🏥 Medical Equipment Platform
+Developed intuitive frontend interfaces using React & Laravel for healthcare-related solutions with responsive UI and API integration.
 
-### 🔹 Beirut Home
-Laravel/PHP-based business solution.
+### 🏢 Land Development Tax System
+Built and optimized a taxation management platform using Laravel, React, MySQL, and REST APIs.
 
-### 🔹 Dynamic Odds Table App
-Next.js-powered interactive odds table app.
+### 🛒 Cool Shop eCommerce
+Created modern eCommerce features including product management, responsive layouts, and optimized user experience.
 
-### 🔹 Excel Importer System
-Excel importer with validations using Laravel and Next.js.
+### 📊 Excel Importer with Validation
+Developed a Laravel + Next.js importer system with advanced validation and data processing workflows.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulakkar333&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pulakkar333&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulakkar333&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulakkar333&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulakkar333&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer
+- Developing scalable web applications
+- Building REST APIs and admin dashboards
+- Creating responsive frontend systems
+- Optimizing performance and database queries
+
+### Shopify Developer
+- Custom Shopify theme customization
+- App integrations & performance optimization
+- Responsive eCommerce development
+- UX-focused storefront improvements
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/pulakkar333" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/pulakkar333" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
 
 ---
 
+## 🎯 Current Focus
+
+- SaaS Application Development
+- Advanced Laravel Architecture
+- Next.js Full Stack Applications
+- API & System Integration
+- Performance Optimization
+
+---
+
 <p align="center">
-  ⭐️ From <b>Pulak Kar</b>
+  <i>"Building modern digital experiences with clean and scalable solutions."</i>
+</p>
+
+<p align="center">
+⭐ From <b>Pulak Kar</b>
 </p>
