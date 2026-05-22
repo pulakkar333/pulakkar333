@@ -12,11 +12,11 @@ I build scalable web applications, modern eCommerce platforms, and clean user-fo
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer with experience in modern web technologies
-- ⚡ Specialized in **Laravel, Shopify, React.js & Next.js**
-- 🧠 Passionate about scalable architecture and clean code
-- 🎯 Focused on performance optimization and user experience
-- 🌱 Currently exploring advanced backend systems & SaaS development
+-  Full Stack Developer with experience in modern web technologies
+-  Specialized in **Laravel, Shopify, React.js & Next.js**
+-  Passionate about scalable architecture and clean code
+-  Focused on performance optimization and user experience
+-  Currently exploring advanced backend systems & SaaS development
 
 ---
 
