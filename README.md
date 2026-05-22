@@ -112,5 +112,5 @@ Developed a Laravel + Next.js importer system with advanced validation and data 
 </p>
 
 <p align="center">
-⭐ From <b>Pulak Kar</b>
+⭐ From <b>Pulak Kar</b> ⭐
 </p>
