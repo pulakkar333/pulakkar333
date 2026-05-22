@@ -58,15 +58,7 @@ Developed a Laravel + Next.js importer system with advanced validation and data 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulakkar333&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulakkar333&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulakkar333&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
