@@ -93,7 +93,12 @@ Developed a Laravel + Next.js importer system with advanced validation and data 
 <a href="https://github.com/pulakkar333" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+  <a href="https://www.linkedin.com/in/pulak-kar/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 </p>
+
+
 
 ---
 
