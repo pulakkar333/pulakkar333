@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulak Kar</h1>
 
 <h3 align="center">
-Full Stack Developer | Laravel & Shopify Specialist | React & Next.js Enthusiast
+Full Stack Developer | PHP & Laravel Specialist | React js Enthusiast
 </h3>
 
 <p align="center">
