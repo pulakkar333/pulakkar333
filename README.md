@@ -9,7 +9,6 @@ I build scalable web applications, modern eCommerce platforms, and clean user-fo
 </p>
 
 ---
-
 ## 🚀 About Me
 
 -  Full Stack Developer with experience in modern web technologies
